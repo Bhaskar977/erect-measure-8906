@@ -1,0 +1,9 @@
+.product{
+    display: flex;
+    justify-content: space-between;
+    border-right: 1px solid gray;
+}
+.product>div:nth-child(1){
+    width: 30%;
+    margin-top: 40px;
+}
