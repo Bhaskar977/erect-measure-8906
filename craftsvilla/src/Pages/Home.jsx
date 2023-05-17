@@ -127,12 +127,10 @@ const Home = () => {
   ];
   
   //setInterval to the Banner
-
-  console.log(currIndex)
     
   useEffect(() => {
     const intervalId = setInterval(()=>{
-      if(currIndex==banner.length-1){
+      if(currIndex===banner.length-1){
         setCurrIndex(0)
       }
       else{
@@ -148,7 +146,7 @@ const Home = () => {
   const cData = categoryData.map((el) => (
     <img width="90%" src={el.image} alt="" />
   ));
-  const ban = banner.map((el) =><img src={el.image} alt="No Image"/>);
+  const ban = banner.map((el) =><img src={el.image} alt="ban"/>);
   return (
     <DIV>
       <div style={{ textAlign: "center" }}>

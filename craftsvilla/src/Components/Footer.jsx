@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <DIV>
     <div className="footer">
-      <div style={{width:"30%"}}>
+      <div >
         <h3>About Us</h3>
         <p>
           India's most convenient online grocery channel Buyerapp Fresh and
@@ -42,29 +42,12 @@ const Footer = () => {
 };
 
 const DIV = styled.div`
-.footer{
-  width: 100%;
-  height: 400px;
-  display: flex;
-  justify-content: space-between;
-  margin: auto;
-  background-color: #b0e0e6;
-  padding: 20px;
-}
-.footer
-.footer>div p{
-  font-family: sans-serif;
-}
-
 @media (min-width:0px) and (max-width:600px){
   .footer{
-    width:300px;
     display:grid;
     grid-template-columns:repeat(2,1fr)
   }
-  .footer>div p{
-    width:200px;
-  }
+  
 }
 
 `

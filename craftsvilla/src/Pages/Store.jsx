@@ -15,7 +15,7 @@ const Store = (props) => {
   return (
     <div>
       <div style={style}>
-        <img width="20%" style={{ borderRadius: "50%" }} src={image} alt="" />
+        <img width="18%" style={{ borderRadius: "50%" }} src={image} alt="" />
         <div>
           <h3>{title}</h3>
           <p>{distance}</p>
