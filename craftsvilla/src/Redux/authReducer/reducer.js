@@ -7,7 +7,6 @@ const initialState = {
     token:""
 }
 
-
 export const reducer = (state=initialState,{type,payload})=>{
     switch(type){
       case LOGIN_REQUEST:
