@@ -1,0 +1,38 @@
+hr{
+    border: 1px solid #000;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#5D4037;
+}
+
+h1{
+    color: #fff;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+input{
+    width: 30%;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+.wrap{
+    margin-right: 30px;
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+}
+.list{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.list:hover{
+    color: blue;
+}

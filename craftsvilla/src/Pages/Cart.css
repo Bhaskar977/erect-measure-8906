@@ -1,0 +1,29 @@
+.card1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cart{
+    width: 60%;
+}
+.head1{
+    display: flex;
+    justify-content: space-evenly;
+    color: rgb(153, 149, 149);
+}
+hr{
+    color: rgb(153, 149, 149);
+}
+
+.qty{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.buy{
+    background-color:#5D4037;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+}
