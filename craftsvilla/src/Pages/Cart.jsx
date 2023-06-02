@@ -75,7 +75,7 @@ const Cart = () => {
                 <img width="10%" src={el.image} alt="" />
                 <div>
                   <h3>{el.title}</h3>
-                  <button onClick={() => dlt(el.id)}>Remove</button>
+                  <button style={{backgroundColor:"red", color:"#fff",padding:"5px 10px 5px 10px",border:"none",borderRadius:"3px"}} onClick={() => dlt(el.id)}>Remove</button>
                 </div>
                 <div className="qty">
                   <div className="qtyBtn">
