@@ -99,14 +99,11 @@ const Home = () => {
     },
   ];
   const categoryData = [
-    { image: "https://cdn.plotch.io/image/upload/C/V/1676285387_Mi5wbmc=.png" },
-    { image: "https://cdn.plotch.io/image/upload/C/V/1676285392_My5wbmc=.png" },
-    { image: "https://cdn.plotch.io/image/upload/C/V/1676285398_NC5wbmc=.png" },
-    { image: "https://cdn.plotch.io/image/upload/C/V/1676285404_NS5wbmc=.png" },
-    { image: "https://cdn.plotch.io/image/upload/C/V/1676285409_Ni5wbmc=.png" },
-    { image: "https://cdn.plotch.io/image/upload/C/V/1676285414_Ny5wbmc=.png" },
-    { image: "https://cdn.plotch.io/image/upload/C/V/1676285421_OC5wbmc=.png" },
-    { image: "https://cdn.plotch.io/image/upload/C/V/1676285382_MS5wbmc=.png" },
+    { image: "https://cdn1.plotch.io/assets/images/1702616045_U2FyZWUucG5n.png" },
+    { image: "https://cdn1.plotch.io/assets/images/1702616051_S3VydGEucG5n.png" },
+    { image: "https://cdn1.plotch.io/assets/images/1702616091_V2VzdGVybldlYXIucG5n.png" },
+    { image: "https://cdn1.plotch.io/assets/images/1702616107_UGVyc29uYWwmQmVhdXR5Q2FyZS5wbmc=.png" },
+    { image: "https://cdn1.plotch.io/assets/images/1702616124_SG9tZURlY29yLnBuZw==.png" },
   ];
 
   const banner = [
