@@ -112,18 +112,18 @@ const Home = () => {
   const banner = [
     {
       image:
-        "https://cdn.plotch.io/image/upload/C/V/1671110178_SG9tZWRlY29yLnBuZw==.png",
+        "https://cdn1.plotch.io/assets/images/1702616940_MTcwMTUwMzQ5NF9UMDVFUXkxUFJrWkZVa0pCVGs1RlVpZ3lLUzVuYVdZPS5naWY=.gif",
     },
     {
       image:
-        "https://cdn.plotch.io/image/upload/C/V/1676097252_Q1JBRlRTVklMTEEyLU5FV0hFUk9CQU5ORVJTLnBuZw==.png",
+        "https://cdn1.plotch.io/assets/images/1702616953_MTcwMTUwMzM5M19UMDVFUXkxUFJrWkZVa0pCVGs1RlVpZ3hLUzVuYVdZPS5naWY=.gif",
     },
     {
       image:
-        "https://cdn.plotch.io/image/upload/C/V/1676286917_Q1JBRlRTVklMTEEyLU5FV0hFUk9CQU5ORVJTLnBuZw==.png",
+        "https://cdn1.plotch.io/assets/images/1702616961_MTY5NjQwNjc0M19NaTV3Ym1jPS5wbmc=.png",
     },
-    { image: "https://cdn.plotch.io/image/upload/C/V/1671110155_NC5wbmc=.png" },
-    { image: "https://cdn.plotch.io/image/upload/C/V/1671110161_Mi5wbmc=.png" },
+    { image: "https://cdn1.plotch.io/assets/images/1702616973_MTY5NjQwNzc0Nl9NeTV3Ym1jPS5wbmc=.png" },
+    { image: "https://cdn1.plotch.io/assets/images/1702616995_MTY5Mzg5NDI0Ml9OQzV3Ym1jPS5wbmc=.png" },
   ];
   
   //setInterval to the Banner
